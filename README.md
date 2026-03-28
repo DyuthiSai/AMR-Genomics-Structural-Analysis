@@ -62,32 +62,7 @@ By integrating **NGS-based genomic analysis, epidemiological validation, and str
 
 ---
 
-## Repository Structure
-
-```
-amr-genomics-structural-analysis/
-│── README.md
-│
-│── results/
-│   ├── genomics/
-│   │   └── genomics_master.csv
-│   ├── pathogenwatch/
-│   │   └── pathogenwatch_master.csv
-│   ├── structural/
-│   │   └── structural_summary.csv
-│   ├── qc/
-│   │   └── qc_summary.csv
-│
-│── docs/
-│   └── images/
-│
-│── pipeline/
-│   └── nextflow_pipeline_info.md
-```
-
----
-
-## Results Summary
+## **Results Summary**
 
 ### Genomics
 
