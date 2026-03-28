@@ -1,0 +1,1 @@
+Pathogenwatch validation confirmed AMR profiles, MLST typing, and phylogenetic relationships among VISA isolates. SNP mutations such as gyrA_S84L and grlA_S80F were identified.
